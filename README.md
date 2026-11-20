@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# A Philosophy of (Inductive) Testing
+
+Jack Fox ~nomryg-nilref. *Urbit Systems Technical Journal* 1(1), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389602.svg)](https://doi.org/10.5281/zenodo.24389602) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i01/a-philosophy-of-inductive-testing)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
